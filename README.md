@@ -72,10 +72,6 @@ int main(){
   
 </p> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloschato&show_icons=true&locale=en&layout=compact" alt="carlosChato" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carloschato&show_icons=true&locale=en" alt="carloschato" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carloschato&" alt="carloschato" /></p>
 
 
